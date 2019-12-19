@@ -9,6 +9,6 @@ app.window.position.y=40
 autologin.canonical_username="11138592707"
 storage.last-location="/home/star/.cache/spotify/Storage"
 app.window.position.width=932
-core.clock_delta=-499
+core.clock_delta=-498
 app.last-launched-version="1.1.10.546.ge08ef575"
 app.autostart-configured=true
