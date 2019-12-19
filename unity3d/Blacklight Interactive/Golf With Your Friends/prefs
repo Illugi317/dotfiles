@@ -1,0 +1,58 @@
+<unity_prefs version_major="1" version_minor="1">
+	<pref name="AllowBallLights" type="int">2</pref>
+	<pref name="AmbientOcclusion" type="int">1</pref>
+	<pref name="AntiAliasing" type="int">3</pref>
+	<pref name="Brightness" type="float">0</pref>
+	<pref name="Contrast" type="float">0</pref>
+	<pref name="ControlsFirstSet" type="int">1</pref>
+	<pref name="DrawDistance" type="float">1000</pref>
+	<pref name="FOV" type="float">62</pref>
+	<pref name="FoliageDensity" type="int">60</pref>
+	<pref name="FoliageDistance" type="int">60</pref>
+	<pref name="FrameRate" type="float">1</pref>
+	<pref name="J1dRQg==" type="string">Y0Z0UlJ3OENBRjRCajNBPQ==</pref>
+	<pref name="LODLevel" type="int">50</pref>
+	<pref name="LVlE" type="string">ZUE4Q0FMSk1SVWc9</pref>
+	<pref name="Lightning" type="int">2</pref>
+	<pref name="MUpRXwo=" type="string">WkE4Q0FMSk1SVWc9</pref>
+	<pref name="MasterTextureLimit" type="int">4</pref>
+	<pref name="NlNZWA==" type="string">WXc4Q0FMSk1SVWc9</pref>
+	<pref name="PopUp_0" type="int">2</pref>
+	<pref name="PowerupControlsFirstSet" type="int">1</pref>
+	<pref name="QualityLevel" type="int">4</pref>
+	<pref name="Saturation" type="float">0</pref>
+	<pref name="Screenmanager Fullscreen mode" type="int">1</pref>
+	<pref name="Screenmanager Resolution Height" type="int">1080</pref>
+	<pref name="Screenmanager Resolution Use Native" type="int">1</pref>
+	<pref name="Screenmanager Resolution Width" type="int">1920</pref>
+	<pref name="ShadowCascades" type="int">3</pref>
+	<pref name="ShadowDistance" type="float">60</pref>
+	<pref name="ShadowResolution" type="int">3</pref>
+	<pref name="ShowPlayerItems" type="int">2</pref>
+	<pref name="SpinControlsFirstSet" type="int">1</pref>
+	<pref name="UnitySelectMonitor" type="int">0</pref>
+	<pref name="VSyncCount" type="int">1</pref>
+	<pref name="ambientVolume" type="float">100</pref>
+	<pref name="cInput_alt_inp" type="string">Tm9uZSpOb25lKk5vbmUqTm9uZSpSZXR1cm4qTm9uZSpOb25lKk5vbmUqUmV0dXJuKk5vbmUqTm9uZSpOb25lKk5vbmUqTm9uZSpOb25lKk5vbmUqTm9uZSpOb25lKk5vbmUqTm9uZSpOb25lKk5vbmUqTm9uZSpOb25lKk5vbmUqTm9uZSpOb25lKk5vbmUqTm9uZSpOb25lKg==</pref>
+	<pref name="cInput_alt_inpStr" type="string">KioqKioqKioqKioqKioqKioqKioqKioqKioqKioq</pref>
+	<pref name="cInput_alt_modifierStr" type="string">Tm9uZSpOb25lKk5vbmUqTm9uZSpSZXR1cm4qTm9uZSpOb25lKk5vbmUqUmV0dXJuKk5vbmUqTm9uZSpOb25lKk5vbmUqTm9uZSpOb25lKk5vbmUqTm9uZSpOb25lKk5vbmUqTm9uZSpOb25lKk5vbmUqTm9uZSpOb25lKk5vbmUqTm9uZSpOb25lKk5vbmUqTm9uZSpOb25lKg==</pref>
+	<pref name="cInput_axis" type="string">SG9yaXpvbnRhbCpWZXJ0aWNsZSpab29tKlBvd2VyKlNwaW4qIzE3KjE1KjE5KjIxKjIzKiMxOCoxNioyMCoyMioyNCojNQ==</pref>
+	<pref name="cInput_count" type="int">30</pref>
+	<pref name="cInput_defaults" type="string">U2hvb3QqQmFsbExpZ2h0KlJlc2V0UG9zaXRpb24qSnVtcCpDaGF0KlNwZWN0YXRvckN5Y2xlKkxlYWRlcmJvYXJkKkZyZWVjYW0qRnJlZWNhbUJvb3N0KkZyZWVjYW1VcCpGcmVlY2FtRG93bipBY3RpdmF0ZSpUb2dnbGVDaGF0KkFjdGl2YXRlUG93ZXJ1cCpTZXRTcGluKk1vdXNlVXAqTW91c2VEb3duKk1vdXNlTGVmdCpNb3VzZVJpZ2h0Klpvb21PdXQqWm9vbUluKlBvd2VyT3V0KlBvd2VySW4qU3Bpbk91dCpTcGluSW4qUm90YXRlKlNjYWxlKkRlbGV0ZSpRdWlja1BsYWNlKkVhc3lXYWxsQnVpbGRlciojTW91c2UwKkwqUipNb3VzZTAqVCpNb3VzZTAqVGFiKkMqTGVmdFNoaWZ0KlNwYWNlKkxlZnRDb250cm9sKkUqKlNwYWNlKk1vdXNlMSpNb3VzZSBVcCpNb3VzZSBEb3duKk1vdXNlIExlZnQqTW91c2UgUmlnaHQqTW91c2UgV2hlZWwgVXAqTW91c2UgV2hlZWwgRG93bipNb3VzZSBVcCpNb3VzZSBEb3duKk1vdXNlIExlZnQqTW91c2UgUmlnaHQqUipUKkRlbGV0ZSpMZWZ0QWx0KkxlZnRTaGlmdCojTm9uZSpOb25lKk5vbmUqTm9uZSpSZXR1cm4qTm9uZSpOb25lKk5vbmUqUmV0dXJuKk5vbmUqTm9uZSpOb25lKk5vbmUqTm9uZSpOb25lKk5vbmUqTm9uZSpOb25lKk5vbmUqTm9uZSpOb25lKk5vbmUqTm9uZSpOb25lKk5vbmUqTm9uZSpOb25lKk5vbmUqTm9uZSpOb25lKiNNb3VzZTAqTCpSKk1vdXNlMCpUKk1vdXNlMCpUYWIqQypMZWZ0U2hpZnQqU3BhY2UqTGVmdENvbnRyb2wqRSoqU3BhY2UqTW91c2UxKk1vdXNlIFVwKk1vdXNlIERvd24qTW91c2UgTGVmdCpNb3VzZSBSaWdodCpNb3VzZSBXaGVlbCBVcCpNb3VzZSBXaGVlbCBEb3duKk1vdXNlIFVwKk1vdXNlIERvd24qTW91c2UgTGVmdCpNb3VzZSBSaWdodCpSKlQqRGVsZXRlKkxlZnRBbHQqTGVmdFNoaWZ0KiNOb25lKk5vbmUqTm9uZSpOb25lKlJldHVybipOb25lKk5vbmUqTm9uZSpSZXR1cm4qTm9uZSpOb25lKk5vbmUqTm9uZSpOb25lKk5vbmUqTm9uZSpOb25lKk5vbmUqTm9uZSpOb25lKk5vbmUqTm9uZSpOb25lKk5vbmUqTm9uZSpOb25lKk5vbmUqTm9uZSpOb25lKk5vbmUq</pref>
+	<pref name="cInput_descr" type="string">U2hvb3QqQmFsbExpZ2h0KlJlc2V0UG9zaXRpb24qSnVtcCpDaGF0KlNwZWN0YXRvckN5Y2xlKkxlYWRlcmJvYXJkKkZyZWVjYW0qRnJlZWNhbUJvb3N0KkZyZWVjYW1VcCpGcmVlY2FtRG93bipBY3RpdmF0ZSpUb2dnbGVDaGF0KkFjdGl2YXRlUG93ZXJ1cCpTZXRTcGluKk1vdXNlVXAqTW91c2VEb3duKk1vdXNlTGVmdCpNb3VzZVJpZ2h0Klpvb21PdXQqWm9vbUluKlBvd2VyT3V0KlBvd2VySW4qU3Bpbk91dCpTcGluSW4qUm90YXRlKlNjYWxlKkRlbGV0ZSpRdWlja1BsYWNlKkVhc3lXYWxsQnVpbGRlcio=</pref>
+	<pref name="cInput_dubl" type="string">VHJ1ZQ==</pref>
+	<pref name="cInput_inp" type="string">TW91c2UwKkwqUipNb3VzZTAqVCpNb3VzZTAqVGFiKkMqTGVmdFNoaWZ0KlNwYWNlKkxlZnRDb250cm9sKkUqTm9uZSpTcGFjZSpNb3VzZTEqTm9uZSpOb25lKk5vbmUqTm9uZSpOb25lKk5vbmUqTm9uZSpOb25lKk5vbmUqTm9uZSpSKlQqRGVsZXRlKkxlZnRBbHQqTGVmdFNoaWZ0Kg==</pref>
+	<pref name="cInput_inpStr" type="string">KioqKioqKioqKioqKioqTW91c2UgVXAqTW91c2UgRG93bipNb3VzZSBMZWZ0Kk1vdXNlIFJpZ2h0Kk1vdXNlIFdoZWVsIFVwKk1vdXNlIFdoZWVsIERvd24qTW91c2UgVXAqTW91c2UgRG93bipNb3VzZSBMZWZ0Kk1vdXNlIFJpZ2h0KioqKioq</pref>
+	<pref name="cInput_modifierStr" type="string">TW91c2UwKkwqUipNb3VzZTAqVCpNb3VzZTAqVGFiKkMqTGVmdFNoaWZ0KlNwYWNlKkxlZnRDb250cm9sKkUqTm9uZSpTcGFjZSpNb3VzZTEqTm9uZSpOb25lKk5vbmUqTm9uZSpOb25lKk5vbmUqTm9uZSpOb25lKk5vbmUqTm9uZSpSKlQqRGVsZXRlKkxlZnRBbHQqTGVmdFNoaWZ0Kg==</pref>
+	<pref name="colBlue" type="float">0.295238</pref>
+	<pref name="colGreen" type="float">0.141014</pref>
+	<pref name="colRed" type="float">0.588382</pref>
+	<pref name="mainVolume" type="float">2.04828</pref>
+	<pref name="masterRegion" type="int">1</pref>
+	<pref name="musicVolume" type="float">100</pref>
+	<pref name="playerName" type="string">c3Rhcg==</pref>
+	<pref name="returnToLobby" type="int">0</pref>
+	<pref name="unity.cloud_userid" type="string">YzM4NGVjMjQwNDM0ZjQzOGRhNWM0ZDM4OTU4MTM3ODQ=</pref>
+	<pref name="unity.player_session_count" type="string">MQ==</pref>
+	<pref name="unity.player_sessionid" type="string">OTAzNDAwNDA5MzE5ODc2MDgwOQ==</pref>
+</unity_prefs>

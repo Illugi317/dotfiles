@@ -1,0 +1,1373 @@
+ERROR: ld.so: object '/home/star/.local/share/Steam/ubuntu12_32/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/home/star/.local/share/Steam/ubuntu12_32/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+Setting breakpad minidump AppID = 255710
+Steam_SetMinidumpSteamID:  Caching Steam ID:  76561198133618061 [API loaded no]
+ERROR: ld.so: object '/home/star/.local/share/Steam/ubuntu12_32/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/home/star/.local/share/Steam/ubuntu12_32/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+libpng warning: iCCP: Not recognizing known sRGB profile that has been edited
+libpng warning: iCCP: Not recognizing known sRGB profile that has been edited
+libpng warning: iCCP: Not recognizing known sRGB profile that has been edited
+libpng warning: iCCP: Not recognizing known sRGB profile that has been edited
+libpng warning: iCCP: Not recognizing known sRGB profile that has been edited
+Loading Mono
+Mono location: /home/star/.local/share/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/x86_64
+Steamworks_RegisterMonoInterface()
+Successfully Hooked RenderAPI_OpenGLCoreES (17) [Message]
+Loading Steamworks
+DLC status: 64
+dlc 'Cities: Skylines - Preorder Pack' id: '340160' available: 'false'
+dlc 'Cities: Skylines - Deluxe Edition Upgrade Pack' id: '346791' available: 'true'
+dlc 'Cities: Skylines - Soundtrack' id: '352510' available: 'false'
+dlc 'Cities: Skylines - The Architecture Artbook' id: '352511' available: 'false'
+dlc 'Cities: Skylines - The Monuments Booklet' id: '352512' available: 'false'
+dlc 'Cities: Skylines - Post Cards' id: '355600' available: 'false'
+dlc 'Cities: Skylines - Korean language' id: '365040' available: 'false'
+dlc 'Cities: Skylines - After Dark' id: '369150' available: 'true'
+dlc 'Cities: Skylines - Snowfall' id: '420610' available: 'true'
+dlc 'Cities: Skylines - Match Day' id: '456200' available: 'true'
+dlc 'Cities: Skylines - Content Creator Pack: Art Deco' id: '515190' available: 'true'
+dlc 'Cities: Skylines - Natural Disasters' id: '515191' available: 'true'
+dlc 'Cities: Skylines - Juventus F.C Club Pack' id: '525940' available: 'false'
+dlc 'Cities: Skylines - Chelsea F.C Club Pack' id: '526610' available: 'false'
+dlc 'Cities: Skylines - FC Barcelona Club Pack' id: '526611' available: 'false'
+dlc 'Cities: Skylines - Paris Saint-Germain F.C.' id: '526612' available: 'false'
+dlc 'Cities: Skylines - Stadiums: European Club Pack' id: '536610' available: 'false'
+dlc 'Cities: Skylines - Content Creator Pack: High-Tech Buildings' id: '547500' available: 'true'
+dlc 'Cities: Skylines - Relaxation Station' id: '547501' available: 'true'
+dlc 'Cities: Skylines - Mass Transit' id: '547502' available: 'true'
+dlc 'Cities: Skylines - Pearls From the East' id: '563850' available: 'true'
+dlc 'Cities: Skylines - Green Cities' id: '614580' available: 'true'
+Steam ID: 255710 [Message]
+Timed out waiting for game mapping!
+OnUserStatsReceived()
+Received stats and achievements
+OnUserStatsStored()
+Stored successfully
+PNG
+PNG
+PNG
+PNG
+PNG
+PNG
+PNG
+PNG
+PNG
+PNG
+PNG
+PNG
+PNG
+PNG
+PNG
+PNG
+QueryUGCContent
+PNG
+PNG
+PNG
+PNG
+PNG
+PNG
+PNG
+PNG
+PNG
+PNG
+PNG
+PNG
+PNG
+PNG
+OnSteamUGCQueryCompleted
+Loading 'previewfile_1938790085.png' for 1938790085
+PNG
+Loading 'previewfile_1937517089.png' for 1937517089
+PNG
+Loading 'previewfile_1935378374.png' for 1935378374
+PNG
+Loading 'previewfile_1938493221.png' for 1938493221
+PNG
+Loading 'previewfile_1937449816.png' for 1937449816
+PNG
+Loading 'previewfile_1938795804.png' for 1938795804
+PNG
+Loading 'previewfile_1935379265.png' for 1935379265
+PNG
+Loading 'previewfile_1938168075.png' for 1938168075
+PNG
+Loading 'previewfile_1935728602.png' for 1935728602
+PNG
+Loading 'previewfile_1935377413.jpg' for 1935377413
+JPG
+Loading 'previewfile_1938134549.png' for 1938134549
+PNG
+Loading 'previewfile_1935632477.png' for 1935632477
+PNG
+Loading 'previewfile_1938134218.png' for 1938134218
+PNG
+Loading 'previewfile_1938675906.png' for 1938675906
+PNG
+Loading 'previewfile_1935752024.png' for 1935752024
+PNG
+Loading 'previewfile_1935553946.png' for 1935553946
+PNG
+Loading 'previewfile_1937369609.jpg' for 1937369609
+JPG
+Loading 'previewfile_1935751271.png' for 1935751271
+PNG
+Loading 'previewfile_1936878336.png' for 1936878336
+PNG
+Loading 'previewfile_1939679056.png' for 1939679056
+PNG
+Loading 'previewfile_1935752543.png' for 1935752543
+PNG
+Loading 'previewfile_1936877595.png' for 1936877595
+PNG
+Loading 'previewfile_1936876922.png' for 1936876922
+PNG
+Loading 'previewfile_1935795503.png' for 1935795503
+PNG
+Loading 'previewfile_1938523267.png' for 1938523267
+PNG
+Loading 'previewfile_1938391139.png' for 1938391139
+PNG
+Loading 'previewfile_1938991804.png' for 1938991804
+PNG
+Loading 'previewfile_1935291997.png' for 1935291997
+PNG
+Loading 'previewfile_1938885461.png' for 1938885461
+PNG
+Loading 'previewfile_1938297162.png' for 1938297162
+PNG
+Loading 'previewfile_1938296677.png' for 1938296677
+PNG
+Loading 'previewfile_1936332034.png' for 1936332034
+PNG
+Loading 'previewfile_1936975415.png' for 1936975415
+PNG
+Loading 'libpng warning: iCCP: Not recognizing known sRGB profile that has been edited
+libpng warning: iCCP: Not recognizing known sRGB profile that has been edited
+libpng warning: iCCP: Not recognizing known sRGB profile that has been edited
+libpng warning: iCCP: Not recognizing known sRGB profile that has been edited
+previewfile_1938549923.png' for 1938549923
+PNG
+Loading 'previewfile_1939125565.png' for 1939125565
+PNG
+Loading 'previewfile_1937638438.png' for 1937638438
+PNG
+Loading 'previewfile_1938563405.png' for 1938563405
+PNG
+Loading 'previewfile_1939647380.png' for 1939647380
+PNG
+Loading 'previewfile_1937149264.png' for 1937149264
+PNG
+Loading 'previewfile_1939370062.png' for 1939370062
+PNG
+Loading 'previewfile_1939370314.png' for 1939370314
+PNG
+Loading 'previewfile_1936974250.png' for 1936974250
+PNG
+Loading 'previewfile_1936021831.png' for 1936021831
+PNG
+Loading 'previewfile_1936975023.png' for 1936975023
+PNG
+Loading 'previewfile_1935117992.png' for 1935117992
+PNG
+Loading 'previewfile_1937145745.png' for 1937145745
+PNG
+Loading 'previewfile_1939370197.png' for 1939370197
+PNG
+Loading 'previewfile_1939802373.png' for 1939802373
+PNG
+Loading 'previewfile_1937146310.png' for 1937146310
+PNG
+Loading 'previewfile_1937960089.png' for 1937960089
+PNG
+PNG
+PNG
+Achievement image idx 378 Pioneer now loading
+Achievement image idx 434 Decorator now loading
+Achievement image idx 435 Terraformer now loading
+Achievement image idx 436 WellInformed now loading
+Achievement image idx 437 CityPlanner now loading
+Achievement image idx 438 Lawmaker now loading
+Achievement image idx 537 PowerAtYourFingertips now loading
+Achievement image idx 440 HeavenlyCity now loading
+Achievement image idx 441 Medic now loading
+Achievement image idx 442 AHugeHadron now loading
+Achievement image idx 443 BeamMeUp now loading
+Achievement image idx 444 NewEden now loading
+Achievement image idx 445 ShortFuse now loading
+Achievement image idx 446 IWantItAll now loading
+Achievement image idx 447 Metropolis now loading
+Achievement image idx 448 Distroy now loading
+Achievement image idx 449 CityInMotion now loading
+Achievement image idx 450 CityInMotion2 now loading
+Achievement image idx 451 ClimbingTheSocialLadder now loading
+Achievement image idx 452 UnpopularMayor now loading
+Achievement image idx 453 RollingInDough now loading
+Achievement image idx 454 FreneticPlayer now loading
+Achievement image idx 455 HappyTown now loading
+Achievement image idx 456 ToughCity now loading
+Achievement image idx 457 FireWatch now loading
+Achievement image idx 458 TheSafestTown now loading
+Achievement image idx 459 ProfessionalDumper now loading
+Achievement image idx 460 EarthlovingCity now loading
+Achievement image idx 461 HigherEducation now loading
+Achievement image idx 462 SIMulatedCity now loading
+Achievement image idx 463 SafeCity now loading
+Achievement image idx 464 PowerToThePeople now loading
+Achievement image idx 465 MakeThemPay now loading
+Achievement image idx 466 LeisureSuites now loading
+Achievement image idx 467 PlayingWithTheBoys now loading
+Achievement image idx 468 PrisonBreak now loading
+Achievement image idx 469 1001Nights now loading
+Achievement image idx 470 DoesMyBumLookBigInThis now loading
+Achievement image idx 536 SingingInThe now loading
+Achievement image idx 471 FoggyWeather now loading
+Achievement image idx 472 Brrr now loading
+Achievement image idx 473 GetYourSnowshoesReady now loading
+Achievement image idx 474 HeresATram now loading
+Achievement image idx 475 ILoveTrams now loading
+Achievement image idx 476 AreTheyNakedInThere now loading
+Achievement image idx 477 ItsWintertime now loading
+Achievement image idx 478 Speedup now loading
+Achievement image idx 479 ThePlowmaster now loading
+Achievement image idx 480 QuayKing now loading
+Achievement image idx 481 WithCanalsYouCan now loading
+Achievement image idx 482 WeNeedSnorkels now loading
+Achievement image idx 483 ShakeItUp now loading
+Achievement image idx 484 ItsHeadingRightForUs now loading
+Achievement image idx 485 DropTheBase now loading
+Achievement image idx 486 RunBambi now loading
+Achievement image idx 487 ThunderAndLightning now loading
+Achievement image idx 488 TwistAndShout now loading
+Achievement image idx 489 WhatThe now loading
+Achievement image idx 490 EternalCity now loading
+Achievement image idx 491 Creator now loading
+Achievement image idx 492 WeHaveAWinner now loading
+Achievement image idx 493 TheUnlibpng warning: iCCP: Not recognizing known sRGB profile that has been edited
+libpng warning: iCCP: Not recognizing known sRGB profile that has been edited
+libpng warning: iCCP: Not recognizing known sRGB profile that has been edited
+libpng warning: iCCP: Not recognizing known sRGB profile that has been edited
+derdog now loading
+Achievement image idx 494 RejoiceAndBeFerry now loading
+Achievement image idx 495 FerryFaerie now loading
+Achievement image idx 496 Triorail now loading
+Achievement image idx 497 NotSoMono now loading
+Achievement image idx 498 ClarkCable now loading
+Achievement image idx 499 CablesGalore now loading
+Achievement image idx 500 BlimpBlimp now loading
+Achievement image idx 501 PutSomeBlimpInYourBlimp now loading
+Achievement image idx 502 ComboBreaker now loading
+Achievement image idx 503 NomenEstOmen now loading
+Achievement image idx 504 Centurion now loading
+Achievement image idx 505 ItsCalledSteve now loading
+Achievement image idx 506 TotallyInMotion now loading
+Achievement image idx 507 Reporting now loading
+Achievement image idx 508 SuperSelfSufficient now loading
+Achievement image idx 509 IToTheT now loading
+Achievement image idx 510 Organistic now loading
+Achievement image idx 511 GreenEnergy now loading
+Achievement image idx 512 FriendlyTeaching now loading
+Achievement image idx 513 GreenestCity now loading
+Achievement image idx 514 TheParkToRuleAllParks now loading
+Achievement image idx 515 ParkingNotForbidden now loading
+Achievement image idx 516 Z00 now loading
+Achievement image idx 517 Ambulare now loading
+Achievement image idx 518 MaintainThatPark now loading
+Achievement image idx 519 CoasterTycoon now loading
+Achievement image idx 520 Naturally now loading
+Achievement image idx 521 SightsToBeSeen now loading
+Achievement image idx 522 FullCapacity now loading
+Achievement image idx 523 SerialInvestor now loading
+Achievement image idx 524 OffshoreAssets now loading
+Achievement image idx 525 IndustryTycoon now loading
+Achievement image idx 526 Postman now loading
+Achievement image idx 527 JustTolling now loading
+Achievement image idx 528 ScalingUp now loading
+Achievement image idx 529 StudentHousingProject now loading
+Achievement image idx 530 GraduationNation now loading
+Achievement image idx 531 DistinguishedAcademics now loading
+Achievement image idx 532 VarsitySportsPatron now loading
+Achievement image idx 533 HigherLearning now loading
+Achievement image idx 534 AcademicScholar now loading
+Achievement image idx 535 ForForProfitEducation now loading
+PNG
+PNG
+PNG
+PNG
+PNG
+PNG
+PNG
+PNG
+PNG
+PNG
+PNG
+PNG
+PNG
+PNG
+PNG
+PNG
+QueryUGCContent
+PNG
+PNG
+PNG
+PNG
+PNG
+PNG
+PNG
+PNG
+PNG
+PNG
+PNG
+PNG
+PNG
+PNG
+OnSteamUGCQueryCompleted
+Loading 'previewfile_1938493221.png' for 1938493221
+PNG
+Loading 'previewfile_1938790085.png' for 1938790085
+PNG
+Loading 'previewfile_1937517089.png' for 1937517089
+PNG
+Loading 'previewfile_1938795804.png' for 1938795804
+PNG
+Loading 'previewfile_1937449816.png' for 1937449816
+PNG
+Loading 'previewfile_1935378374.png' for 1935378374
+PNG
+Loading 'previewfile_1935379265.png' for 1935379265
+PNG
+Loading 'previewfile_1938168075.png' for 1938168075
+PNG
+Loading 'previewfile_1935728602.png' for 1935728602
+PNG
+Loading 'previewfile_1935377413.jpg' for 1935377413
+JPG
+Loading 'previewfile_1938134549.png' for 1938134549
+PNG
+Loading 'previewfile_1935632477.png' for 1935632477
+PNG
+Loading 'previewfile_1938134218.png' for 1938134218
+PNG
+Loading 'previewfile_1935752024.png' for 1935752024
+PNG
+Loading 'previewfile_1935751271.png' for 1935751271
+PNG
+Loading 'previewfile_1938675906.png' for 1938675906
+PNG
+Loading 'previewfile_1935553946.png' for 1935553946
+PNG
+Unloading Steamworks
+080 at 0 Hz
+Desktop is 1920 x 1080 @ 60 Hz
+UnloadTime: 0.821000 ms
+Game mode
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.153000 ms
+Machine ID: 197bb747ae5644708e97bdb30f17bf57
+Model: PC
+OS: Linux 5.4 Arch rolling 64bit
+Language: English
+CPU: AMD Ryzen 7 2700X Eight-Core Processor (16 core(s))
+System Memory: 16000
+Gfx Device: GeForce GTX 970/PCIe/SSE2
+Gfx Version: OpenGL 4.5.0 NVIDIA 440.44
+Gfx Memory: 4096
+Gfx Shader Model: 50
+Game Version: 1.12.2-f3-steam-linux
+
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+API: Steam Type: Steam
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting vsync to 1  [Core]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Raw Command Line: /home/star/.local/share/Steam/steamapps/common/Cities_Skylines/Cities.x64
+Arguments: /home/star/.local/share/Steam/steamapps/common/Cities_Skylines/Cities.x64
+  [CommandLine - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Platform assembly: /home/star/.local/share/Steam/steamapps/common/Cities_Skylines/Cities_Data/Managed/Mono.Security.dll (this message is harmless)
+Platform assembly: /home/star/.local/share/Steam/steamapps/common/Cities_Skylines/Cities_Data/Managed/System.Configuration.dll (this message is harmless)
+Platform assembly: /home/star/.local/share/Steam/steamapps/common/Cities_Skylines/Cities_Data/Managed/System.Xml.dll (this message is harmless)
+Adding package 'CL Marin Bay' [/home/star/.local/share/Steam/steamapps/common/Cities_Skylines/Files/Maps/CL Marin Bay.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'CL Murky Coast' [/home/star/.local/share/Steam/steamapps/common/Cities_Skylines/Files/Maps/CL Murky Coast.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'CL Northwood Hills' [/home/star/.local/share/Steam/steamapps/common/Cities_Skylines/Files/Maps/CL Northwood Hills.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'CL Roslyn Peninsula' [/home/star/.local/share/Steam/steamapps/common/Cities_Skylines/Files/Maps/CL Roslyn Peninsula.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'CL Wolf Creek' [/home/star/.local/share/Steam/steamapps/common/Cities_Skylines/Files/Maps/CL Wolf Creek.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'System' [/home/star/.local/share/Steam/steamapps/common/Cities_Skylines/Files/Maps/CO.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Cliffside Bay' [/home/star/.local/share/Steam/steamapps/common/Cities_Skylines/Files/Maps/Cliffside Bay.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Eden Valley2' [/home/star/.local/share/Steam/steamapps/common/Cities_Skylines/Files/Maps/Eden Valley2.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Foggy Hills' [/home/star/.local/share/Steam/steamapps/common/Cities_Skylines/Files/Maps/Foggy Hills.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Garden Rivers2' [/home/star/.local/share/Steam/steamapps/common/Cities_Skylines/Files/Maps/Garden Rivers2.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Grand River' [/home/star/.local/share/Steam/steamapps/common/Cities_Skylines/Files/Maps/Grand River.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'IN Green Peaks' [/home/star/.local/share/Steam/steamapps/common/Cities_Skylines/Files/Maps/IN Green Peaks.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'IN Marble Canyon' [/home/star/.local/share/Steam/steamapps/common/Cities_Skylines/Files/Maps/IN Marble Canyon.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'IN Pearl Bay' [/home/star/.local/share/Steam/steamapps/common/Cities_Skylines/Files/Maps/IN Pearl Bay.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'IN Twin Fjords' [/home/star/.local/share/Steam/steamapps/common/Cities_Skylines/Files/Maps/IN Twin Fjords.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'IN Woodgarden' [/home/star/.local/share/Steam/steamapps/common/Cities_Skylines/Files/Maps/IN Woodgarden.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Lavender Lake2' [/home/star/.local/share/Steam/steamapps/common/Cities_Skylines/Files/Maps/Lavender Lake2.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'MT Ferry Empire' [/home/star/.local/share/Steam/steamapps/common/Cities_Skylines/Files/Maps/MT Ferry Empire.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'MT Fix The Traffic' [/home/star/.local/share/Steam/steamapps/common/Cities_Skylines/Files/Maps/MT Fix The Traffic.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'MT Trains' [/home/star/.local/share/Steam/steamapps/common/Cities_Skylines/Files/Maps/MT Trains.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'ND Alpine Villages' [/home/star/.local/share/Steam/steamapps/common/Cities_Skylines/Files/Maps/ND Alpine Villages.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'ND By The Dam' [/home/star/.local/share/Steam/steamapps/common/Cities_Skylines/Files/Maps/ND By The Dam.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'ND Floodland' [/home/star/.local/share/Steam/steamapps/common/Cities_Skylines/Files/Maps/ND Floodland.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'ND Island Hopping' [/home/star/.local/share/Steam/steamapps/common/Cities_Skylines/Files/Maps/ND Island Hopping.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'ND Tornado Country' [/home/star/.local/share/Steam/steamapps/common/Cities_Skylines/Files/Maps/ND Tornado Country.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'NorthEurope1FINAL' [/home/star/.local/share/Steam/steamapps/common/Cities_Skylines/Files/Maps/NorthEurope1FINAL.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'NorthEurope2FINAL' [/home/star/.local/share/Steam/steamapps/common/Cities_Skylines/Files/Maps/NorthEurope2FINAL.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'NorthEurope3FINAL' [/home/star/.local/share/Steam/steamapps/common/Cities_Skylines/Files/Maps/NorthEurope3FINAL.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'PL Cavern Coast' [/home/star/.local/share/Steam/steamapps/common/Cities_Skylines/Files/Maps/PL Cavern Coast.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'PL Honu Island' [/home/star/.local/share/Steam/steamapps/common/Cities_Skylines/Files/Maps/PL Honu Island.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'PL Mountain Meadows' [/home/star/.local/share/Steam/steamapps/common/Cities_Skylines/Files/Maps/PL Mountain Meadows.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'PL Pine Rivers' [/home/star/.local/share/Steam/steamapps/common/Cities_Skylines/Files/Maps/PL Pine Rivers.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'PL Windfield' [/home/star/.local/share/Steam/steamapps/common/Cities_Skylines/Files/Maps/PL Windfield.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'SouthEurope1FINAL' [/home/star/.local/share/Steam/steamapps/common/Cities_Skylines/Files/Maps/SouthEurope1FINAL.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'SouthEurope2FINAL' [/home/star/.local/share/Steam/steamapps/common/Cities_Skylines/Files/Maps/SouthEurope2FINAL.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'SouthEurope3FINAL' [/home/star/.local/share/Steam/steamapps/common/Cities_Skylines/Files/Maps/SouthEurope3FINAL.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Tropical1FINAL' [/home/star/.local/share/Steam/steamapps/common/Cities_Skylines/Files/Maps/Tropical1FINAL.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Tropical2FINAL' [/home/star/.local/share/Steam/steamapps/common/Cities_Skylines/Files/Maps/Tropical2FINAL.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Tropical3FINAL' [/home/star/.local/share/Steam/steamapps/common/Cities_Skylines/Files/Maps/Tropical3FINAL.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Winter1Final' [/home/star/.local/share/Steam/steamapps/common/Cities_Skylines/Files/Maps/Winter1Final.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Winter2Final' [/home/star/.local/share/Steam/steamapps/common/Cities_Skylines/Files/Maps/Winter2Final.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Winter3Final' [/home/star/.local/share/Steam/steamapps/common/Cities_Skylines/Files/Maps/Winter3Final.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Winter4Final' [/home/star/.local/share/Steam/steamapps/common/Cities_Skylines/Files/Maps/Winter4Final.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Winter5Final' [/home/star/.local/share/Steam/steamapps/common/Cities_Skylines/Files/Maps/Winter5Final.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Alpine Villages' [/home/star/.local/share/Steam/steamapps/common/Cities_Skylines/Files/Scenarios/Alpine Villages.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'By The Dam' [/home/star/.local/share/Steam/steamapps/common/Cities_Skylines/Files/Scenarios/By The Dam.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'City of Gardens' [/home/star/.local/share/Steam/steamapps/common/Cities_Skylines/Files/Scenarios/City of Gardens.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Clean Up Crew' [/home/star/.local/share/Steam/steamapps/common/Cities_Skylines/Files/Scenarios/Clean Up Crew.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Ferry Empire' [/home/star/.local/share/Steam/steamapps/common/Cities_Skylines/Files/Scenarios/Ferry Empire.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Fix the Traffic' [/home/star/.local/share/Steam/steamapps/common/Cities_Skylines/Files/Scenarios/Fix the Traffic.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Floodland' [/home/star/.local/share/Steam/steamapps/common/Cities_Skylines/Files/Scenarios/Floodland.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Green Power' [/home/star/.local/share/Steam/steamapps/common/Cities_Skylines/Files/Scenarios/Green Power.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Island Hopping' [/home/star/.local/share/Steam/steamapps/common/Cities_Skylines/Files/Scenarios/Island Hopping.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Tornado Country' [/home/star/.local/share/Steam/steamapps/common/Cities_Skylines/Files/Scenarios/Tornado Country.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Trains' [/home/star/.local/share/Steam/steamapps/common/Cities_Skylines/Files/Scenarios/Trains.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'NewSave' [/home/star/.local/share/Colossal Order/Cities_Skylines/Saves/NewSave.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading /home/star/.local/share/Colossal Order/Cities_Skylines/userGameState.cgs  [Settings - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Non platform assembly: data-0x4b13f50 (this message is harmless)
+Fallback handler could not load library /home/star/.local/share/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/x86_64/data-0x4b13f50.so
+Non platform assembly: data-0x4b3e710 (this message is harmless)
+Fallback handler could not load library /home/star/.local/share/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/x86_64/data-0x4b3e710.so
+Non platform assembly: data-0x4b3c3c0 (this message is harmless)
+Fallback handler could not load library /home/star/.local/share/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/x86_64/data-0x4b3c3c0.so
+Non platform assembly: data-0x4b0fc60 (this message is harmless)
+Fallback handler could not load library /home/star/.local/share/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/x86_64/data-0x4b0fc60.so
+Non platform assembly: data-0x4b11c20 (this message is harmless)
+Fallback handler could not load library /home/star/.local/share/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/x86_64/data-0x4b11c20.so
+Loading /home/star/.local/share/Steam/steamapps/common/Cities_Skylines/Files/Mods/HardMode/HardMode.dll  [Mods - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Non platform assembly: data-0x4b53e40 (this message is harmless)
+Fallback handler could not load library /home/star/.local/share/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/x86_64/data-0x4b53e40.so
+Assembly HardMode0, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null loaded.  [Mods - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading /home/star/.local/share/Steam/steamapps/common/Cities_Skylines/Files/Mods/UnlimitedMoney/UnlimitedMoney.dll  [Mods - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Non platform assembly: data-0x4b4c2b0 (this message is harmless)
+Fallback handler could not load library /home/star/.local/share/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/x86_64/data-0x4b4c2b0.so
+Assembly UnlimitedMoney2, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null loaded.  [Mods - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading /home/star/.local/share/Steam/steamapps/common/Cities_Skylines/Files/Mods/UnlimitedOilAndOre/UnlimitedOilAndOre.dll  [Mods - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Non platform assembly: data-0x4b4f810 (this message is harmless)
+Fallback handler could not load library /home/star/.local/share/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/x86_64/data-0x4b4f810.so
+Assembly UnlimitedOilAndOre, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null loaded.  [Mods - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading /home/star/.local/share/Steam/steamapps/common/Cities_Skylines/Files/Mods/UnlimitedSoil/UnlimitedSoil.dll  [Mods - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Non platform assembly: data-0x4b514b0 (this message is harmless)
+Fallback handler could not load library /home/star/.local/share/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/x86_64/data-0x4b514b0.so
+Assembly UnlimitedSoil, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null loaded.  [Mods - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading /home/star/.local/share/Steam/steamapps/common/Cities_Skylines/Files/Mods/UnlockAll/UnlockAll.dll  [Mods - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Non platform assembly: data-0x4b5ec40 (this message is harmless)
+Fallback handler could not load library /home/star/.local/share/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/x86_64/data-0x4b5ec40.so
+Assembly UnlockAll0, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null loaded.  [Mods - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading locale: en
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Simulation started  [Core]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PopsApi: Initializing file IO
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PopsApi: Init complete
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PopsApi: Pushing task: 1
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 2326.
+Total: 4.421000 ms (FindLiveObjects: 0.069000 ms CreateObjectMapping: 0.046000 ms MarkObjects: 4.297000 ms  DeleteObjects: 0.009000 ms)
+
+GfxDevice: creating device client; threaded=1
+GfxDevice: creating device client; threaded=1
+requesting resize 1920 x 1080
+Using native desktop resolution 1920 x 1080
+requesting fullscreen 1920 x 1080 at 0 Hz
+Desktop is 1920 x 1080 @ 60 Hz
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.303000 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2365.
+Total: 7.146000 ms (FindLiveObjects: 0.141000 ms CreateObjectMapping: 0.052000 ms MarkObjects: 6.936000 ms  DeleteObjects: 0.017000 ms)
+
+PopsApi: Popping task: 1
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PopsApi: Pushing task: 2
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PopsApi: Pushing task: 3
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PopsApi: Popping task: 3
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Title: Terms-of-use-2019-04-05
+PopsApi: Popping task: 2
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Title: privacy-policy-2018-11-02
+GfxDevice: creating device client; threaded=1
+GfxDevice: creating device client; threaded=1
+PopsApi: Pushing task: 4
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PopsApi: [CurlCallManager::update] FAIL '0x75452a0' http status was none of 100, 200, 304: 401
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PopsApi: [CAccountLogInSteamTicket] Received errorCode:'Failure'
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PopsApi: [CAccountLogInSteamTicket] Server returned success code but JSON reply says failure. This might indicate subtle failure modes.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PopsApi: [CAccountLogInSteamTicket] Received errorMessage:'Unauthorized'
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PopsApi: Popping task: 4
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Paradox Account not linked to current Steam user account.  [HTTP]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+No mods were used when this asset was created  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading simulation data from: NewSave_Data  [Serialization]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1345.566040 ms
+
+Unloading 8046 unused Assets to reduce memory usage. Loaded Objects now: 5097.
+Total: 24.260000 ms (FindLiveObjects: 0.708000 ms CreateObjectMapping: 0.257000 ms MarkObjects: 11.930000 ms  DeleteObjects: 11.365000 ms)
+
+No props placed: Oneway Toll Booth Large 01 Sub  [Core]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+No props placed: Twoway Toll Booth Large 01 Sub  [Core]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+No props placed: Twoway Toll Booth Medium 01 Sub  [Core]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Tyre array is null or zero size: ChirpX Crawler  [Core]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Tyre array is null or zero size: ChirpX Rocket  [Core]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+No base generated: ChirpX Vehicles Parking  [Core]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+No props placed: ChirpX Vehicles Parking  [Core]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GfxDevice: creating device client; threaded=1
+GfxDevice: creating device client; threaded=1
+Unknown prefab: Festival Billboard Big 01  [Serialization]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown prefab: Amusement Park Billboard Large 01  [Serialization]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown prefab: VS Team 01 Billboard Large 01  [Serialization]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown prefab: VS Team 02 Billboard Large 01  [Serialization]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown prefab: VS Team 03 Billboard Large 01  [Serialization]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown prefab: VS Team 04 Billboard Large 01  [Serialization]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown prefab: VS Team 05 Billboard Large 01  [Serialization]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown prefab: VS Team 06 Billboard Large 01  [Serialization]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown prefab: VS Team 07 Billboard Large 01  [Serialization]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown prefab: Nature Reserve Billboard Large 01  [Serialization]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown prefab: Zoo Billboard Large 01  [Serialization]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown prefab: VS Team 01 Billboard Large 01  [Serialization]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown prefab: VS Team 02 Billboard Large 01  [Serialization]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown prefab: VS Team 03 Billboard Large 01  [Serialization]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown prefab: VS Team 04 Billboard Large 01  [Serialization]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown prefab: VS Team 05 Billboard Large 01  [Serialization]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown prefab: VS Team 06 Billboard Large 01  [Serialization]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown prefab: VS Team 07 Billboard Large 01  [Serialization]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown prefab: Nature Reserve Billboard Large 01  [Serialization]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown prefab: VS Team 01 Billboard Large 01  [Serialization]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown prefab: VS Team 02 Billboard Large 01  [Serialization]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown prefab: VS Team 03 Billboard Large 01  [Serialization]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown prefab: VS Team 04 Billboard Large 01  [Serialization]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown prefab: VS Team 05 Billboard Large 01  [Serialization]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown prefab: VS Team 06 Billboard Large 01  [Serialization]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown prefab: VS Team 07 Billboard Large 01  [Serialization]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown prefab: Zoo Billboard Large 01  [Serialization]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown prefab: VS Team 01 Billboard Large 01  [Serialization]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown prefab: VS Team 02 Billboard Large 01  [Serialization]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown prefab: VS Team 03 Billboard Large 01  [Serialization]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown prefab: VS Team 04 Billboard Large 01  [Serialization]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown prefab: VS Team 05 Billboard Large 01  [Serialization]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown prefab: VS Team 06 Billboard Large 01  [Serialization]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown prefab: VS Team 07 Billboard Large 01  [Serialization]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown prefab: Amusement Park Billboard Large 01  [Serialization]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown prefab: VS Team 01 Billboard Large 01  [Serialization]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown prefab: VS Team 02 Billboard Large 01  [Serialization]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown prefab: VS Team 03 Billboard Large 01  [Serialization]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown prefab: VS Team 04 Billboard Large 01  [Serialization]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown prefab: VS Team 05 Billboard Large 01  [Serialization]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown prefab: VS Team 06 Billboard Large 01  [Serialization]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown prefab: VS Team 07 Billboard Large 01  [Serialization]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown prefab: Nature Reserve Billboard Large 01  [Serialization]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown prefab: VS Team 01 Billboard Large 01  [Serialization]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown prefab: VS Team 02 Billboard Large 01  [Serialization]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown prefab: VS Team 03 Billboard Large 01  [Serialization]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown prefab: VS Team 04 Billboard Large 01  [Serialization]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown prefab: VS Team 05 Billboard Large 01  [Serialization]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown prefab: VS Team 06 Billboard Large 01  [Serialization]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown prefab: VS Team 07 Billboard Large 01  [Serialization]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown prefab: Festival Billboard Big 01  [Serialization]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown prefab: Festival Billboard Big 01  [Serialization]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown prefab: Festival Billboard Big 01  [Serialization]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown prefab: Festival Billboard Big 02  [Serialization]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown prefab: Festival Billboard Big 02  [Serialization]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown prefab: Festival Billboard Medium 01  [Serialization]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown prefab: Amusement Park Billboard Medium 01  [Serialization]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown prefab: VS Team 01 Billboard Medium 01  [Serialization]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown prefab: VS Team 02 Billboard Medium 01  [Serialization]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown prefab: VS Team 03 Billboard Medium 01  [Serialization]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown prefab: VS Team 04 Billboard Medium 01  [Serialization]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown prefab: VS Team 05 Billboard Medium 01  [Serialization]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown prefab: VS Team 06 Billboard Medium 01  [Serialization]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown prefab: VS Team 07 Billboard Medium 01  [Serialization]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown prefab: Festival Billboard Medium 01  [Serialization]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown prefab: Nature Reserve Billboard Medium 01  [Serialization]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown prefab: Zoo Billboard Medium 01  [Serialization]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown prefab: VS Team 01 Billboard Medium 01  [Serialization]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown prefab: VS Team 02 Billboard Medium 01  [Serialization]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown prefab: VS Team 03 Billboard Medium 01  [Serialization]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown prefab: VS Team 04 Billboard Medium 01  [Serialization]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown prefab: VS Team 05 Billboard Medium 01  [Serialization]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown prefab: VS Team 06 Billboard Medium 01  [Serialization]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown prefab: VS Team 07 Billboard Medium 01  [Serialization]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown prefab: VS Team 01 Billboard Large 01  [Serialization]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown prefab: VS Team 02 Billboard Large 01  [Serialization]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown prefab: VS Team 03 Billboard Large 01  [Serialization]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown prefab: VS Team 04 Billboard Large 01  [Serialization]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown prefab: VS Team 05 Billboard Large 01  [Serialization]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown prefab: VS Team 06 Billboard Large 01  [Serialization]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown prefab: VS Team 07 Billboard Large 01  [Serialization]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown prefab: Amusement Park Billboard Large 01  [Serialization]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown prefab: VS Team 01 Billboard Large 01  [Serialization]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown prefab: VS Team 02 Billboard Large 01  [Serialization]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown prefab: VS Team 03 Billboard Large 01  [Serialization]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown prefab: VS Team 04 Billboard Large 01  [Serialization]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown prefab: VS Team 05 Billboard Large 01  [Serialization]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown prefab: VS Team 06 Billboard Large 01  [Serialization]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown prefab: VS Team 07 Billboard Large 01  [Serialization]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown prefab: VS Team 01 Billboard Large 01  [Serialization]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown prefab: VS Team 02 Billboard Large 01  [Serialization]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown prefab: VS Team 03 Billboard Large 01  [Serialization]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown prefab: VS Team 04 Billboard Large 01  [Serialization]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown prefab: VS Team 05 Billboard Large 01  [Serialization]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown prefab: VS Team 06 Billboard Large 01  [Serialization]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown prefab: VS Team 07 Billboard Large 01  [Serialization]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown prefab: Zoo Billboard Large 01  [Serialization]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown prefab: VS Team 01 Billboard Large 01  [Serialization]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown prefab: VS Team 02 Billboard Large 01  [Serialization]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown prefab: VS Team 03 Billboard Large 01  [Serialization]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown prefab: VS Team 04 Billboard Large 01  [Serialization]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown prefab: VS Team 05 Billboard Large 01  [Serialization]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown prefab: VS Team 06 Billboard Large 01  [Serialization]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown prefab: VS Team 07 Billboard Large 01  [Serialization]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown prefab: Festival Billboard Big 01  [Serialization]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loaded simulation data from: NewSave_Data  [Serialization]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOD has no base: ChirpX Vehicles Parking  [Core]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown prefab: Tsunami  [Serialization]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown prefab: Earthquake  [Serialization]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown prefab: Sinkhole  [Serialization]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown prefab: Meteor Strike  [Serialization]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown prefab: Thunderstorm  [Serialization]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown prefab: Forest Fire  [Serialization]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown prefab: Tornado  [Serialization]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GfxDevice: creating device client; threaded=1
+GfxDevice: creating device client; threaded=1
+GfxDevice: creating device client; threaded=1
+GfxDevice: creating device client; threaded=1
+GfxDevice: creating device client; threaded=1
+GfxDevice: creating device client; threaded=1
+GfxDevice: creating device client; threaded=1
+GfxDevice: creating device client; threaded=1
+GfxDevice: creating device client; threaded=1
+GfxDevice: creating device client; threaded=1
+GfxDevice: creating device client; threaded=1
+GfxDevice: creating device client; threaded=1
+GfxDevice: creating device client; threaded=1
+GfxDevice: creating device client; threaded=1
+GfxDevice: creating device client; threaded=1
+GfxDevice: creating device client; threaded=1
+GfxDevice: creating device client; threaded=1
+GfxDevice: creating device client; threaded=1
+GfxDevice: creating device client; threaded=1
+GfxDevice: creating device client; threaded=1
+GfxDevice: creating device client; threaded=1
+GfxDevice: creating device client; threaded=1
+GfxDevice: creating device client; threaded=1
+GfxDevice: creating device client; threaded=1
+GfxDevice: creating device client; threaded=1
+GfxDevice: creating device client; threaded=1
+GfxDevice: creating device client; threaded=1
+GfxDevice: creating device client; threaded=1
+GfxDevice: creating device client; threaded=1
+GfxDevice: creating device client; threaded=1
+GfxDevice: creating device client; threaded=1
+Saving /home/star/.local/share/Colossal Order/Cities_Skylines/userGameState.cgs  [Settings - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 8 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3174.315918 ms
+
+Unloading 23863 unused Assets to reduce memory usage. Loaded Objects now: 52543.
+Total: 161.206009 ms (FindLiveObjects: 4.152000 ms CreateObjectMapping: 3.327000 ms MarkObjects: 85.642998 ms  DeleteObjects: 68.083000 ms)
+
+PopsApi: Pushing task: 5
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PopsApi: [CurlCallManager::update] FAIL '0x75452a0' http status was none of 100, 200, 304: 401
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PopsApi: [CAccountLogInSteamTicket] Received errorCode:'Failure'
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PopsApi: [CAccountLogInSteamTicket] Server returned success code but JSON reply says failure. This might indicate subtle failure modes.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PopsApi: [CAccountLogInSteamTicket] Received errorMessage:'Unauthorized'
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PopsApi: Popping task: 5
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Paradox Account not linked to current Steam user account.  [HTTP]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Waiting for simulation to quit...  [Core]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PopsApi: Shutdown complete
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting up 8 worker threads for Enlighten.
+  Thread -> id: 7f70d2ffd700 -> priority: 1 
+  Thread -> id: 7f70d17f8700 -> priority: 1 
+  Thread -> id: 7f70d27fa700 -> priority: 1 
+  Thread -> id: 7f70f0ffd700 -> priority: 1 
+  Thread -> id: 7f70d0ff7700 -> priority: 1 
+  Thread -> id: 7f7098ffd700 -> priority: 1 
+  Thread -> id: 7f7051ff8700 -> priority: 1 
+  Thread -> id: 7f70fcffc700 -> priority: 1 
+GameSettings Monitor Exiting...  [Settings - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GameSettings terminated  [Settings - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Simulation terminated  [Core]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+

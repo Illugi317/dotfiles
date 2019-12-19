@@ -1,0 +1,38 @@
+[2019-12-17 22:33:40.833] [exthost] [info] extension host started
+[2019-12-17 22:33:40.886] [exthost] [info] ExtensionService#_doActivateExtension vscode.python {"startup":false,"extensionId":{"value":"vscode.python","_lower":"vscode.python"},"activationEvent":"onLanguage:python"}
+[2019-12-17 22:33:40.887] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/python/dist/pythonMain
+[2019-12-17 22:33:40.888] [exthost] [info] ExtensionService#_doActivateExtension ms-python.python {"startup":false,"extensionId":{"value":"ms-python.python","_lower":"ms-python.python"},"activationEvent":"onLanguage:python"}
+[2019-12-17 22:33:40.888] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/star/.vscode-oss/extensions/ms-python.python-2019.11.50794/out/client/extension
+[2019-12-17 22:33:40.966] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2019-12-17 22:33:40.966] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/debug-auto-launch/dist/extension
+[2019-12-17 22:33:40.968] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2019-12-17 22:33:40.968] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/emmet/dist/extension
+[2019-12-17 22:33:40.976] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.git","_lower":"vscode.git"},"activationEvent":"*"}
+[2019-12-17 22:33:40.976] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/git/dist/main
+[2019-12-17 22:33:40.988] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2019-12-17 22:33:40.988] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/merge-conflict/dist/extension
+[2019-12-17 22:33:40.991] [exthost] [info] ExtensionService#_doActivateExtension icrawl.discord-vscode {"startup":true,"extensionId":{"value":"icrawl.discord-vscode","_lower":"icrawl.discord-vscode"},"activationEvent":"*"}
+[2019-12-17 22:33:40.991] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/star/.vscode-oss/extensions/icrawl.discord-vscode-3.13.0/dist/extension
+[2019-12-17 22:33:40.996] [exthost] [info] ExtensionService#_doActivateExtension KnisterPeter.vscode-github {"startup":true,"extensionId":{"value":"KnisterPeter.vscode-github","_lower":"knisterpeter.vscode-github"},"activationEvent":"*"}
+[2019-12-17 22:33:40.996] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/star/.vscode-oss/extensions/knisterpeter.vscode-github-0.30.3/out/src/main
+[2019-12-17 22:33:41.217] [exthost] [info] eager extensions activated
+[2019-12-17 22:50:29.611] [exthost] [info] extension host started
+[2019-12-17 22:50:29.642] [exthost] [info] ExtensionService#_doActivateExtension vscode.python {"startup":false,"extensionId":{"value":"vscode.python","_lower":"vscode.python"},"activationEvent":"onLanguage:python"}
+[2019-12-17 22:50:29.642] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/python/dist/pythonMain
+[2019-12-17 22:50:29.644] [exthost] [info] ExtensionService#_doActivateExtension ms-python.python {"startup":false,"extensionId":{"value":"ms-python.python","_lower":"ms-python.python"},"activationEvent":"onLanguage:python"}
+[2019-12-17 22:50:29.644] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/star/.vscode-oss/extensions/ms-python.python-2019.11.50794/out/client/extension
+[2019-12-17 22:50:29.718] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2019-12-17 22:50:29.718] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/debug-auto-launch/dist/extension
+[2019-12-17 22:50:29.719] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2019-12-17 22:50:29.719] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/emmet/dist/extension
+[2019-12-17 22:50:29.726] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.git","_lower":"vscode.git"},"activationEvent":"*"}
+[2019-12-17 22:50:29.726] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/git/dist/main
+[2019-12-17 22:50:29.737] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2019-12-17 22:50:29.737] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/merge-conflict/dist/extension
+[2019-12-17 22:50:29.738] [exthost] [info] ExtensionService#_doActivateExtension icrawl.discord-vscode {"startup":true,"extensionId":{"value":"icrawl.discord-vscode","_lower":"icrawl.discord-vscode"},"activationEvent":"*"}
+[2019-12-17 22:50:29.738] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/star/.vscode-oss/extensions/icrawl.discord-vscode-3.13.0/dist/extension
+[2019-12-17 22:50:29.742] [exthost] [info] ExtensionService#_doActivateExtension KnisterPeter.vscode-github {"startup":true,"extensionId":{"value":"KnisterPeter.vscode-github","_lower":"knisterpeter.vscode-github"},"activationEvent":"*"}
+[2019-12-17 22:50:29.742] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/star/.vscode-oss/extensions/knisterpeter.vscode-github-0.30.3/out/src/main
+[2019-12-17 22:50:29.893] [exthost] [info] eager extensions activated
+[2019-12-17 22:51:35.913] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.code-runner {"startup":false,"extensionId":{"value":"formulahendry.code-runner","_lower":"formulahendry.code-runner"},"activationEvent":"onCommand:code-runner.run"}
+[2019-12-17 22:51:35.914] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/star/.vscode-oss/extensions/formulahendry.code-runner-0.9.15/out/src/extension

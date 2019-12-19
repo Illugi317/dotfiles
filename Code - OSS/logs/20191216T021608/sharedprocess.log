@@ -1,0 +1,8 @@
+[2019-12-16 02:16:12.165] [sharedprocess] [info] main {"machineId":"88a2c4e013f8b660742c97b0fb3f14fd9cc04e06f87e2bcf36a7f511c38d4d11","windowId":2}
+[2019-12-16 02:16:14.861] [sharedprocess] [info] Installing extension: ms-vscode.cpptools
+[2019-12-16 02:16:16.122] [sharedprocess] [info] Downloaded extension: ms-vscode.cpptools /tmp/484c9695-d8eb-4b56-955e-2eaad6323904
+[2019-12-16 02:16:16.804] [sharedprocess] [info] Extracted extension to /home/star/.vscode-oss/extensions/.ms-vscode.cpptools-0.26.2: ms-vscode.cpptools
+[2019-12-16 02:16:16.805] [sharedprocess] [info] Renamed to /home/star/.vscode-oss/extensions/ms-vscode.cpptools-0.26.2
+[2019-12-16 02:16:16.807] [sharedprocess] [info] Installation completed. ms-vscode.cpptools
+[2019-12-16 02:16:16.818] [sharedprocess] [info] Extensions installed successfully: ms-vscode.cpptools
+[2019-12-16 02:16:52.168] [sharedprocess] [info] Starting to clean up unused language packs.

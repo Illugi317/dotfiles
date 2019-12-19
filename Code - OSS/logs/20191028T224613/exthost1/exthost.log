@@ -1,0 +1,36 @@
+[2019-10-28 22:46:15.152] [exthost] [info] extension host started
+[2019-10-28 22:46:15.176] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2019-10-28 22:46:15.177] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/debug-auto-launch/dist/extension
+[2019-10-28 22:46:15.183] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2019-10-28 22:46:15.183] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/emmet/dist/extension
+[2019-10-28 22:46:15.207] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.git","_lower":"vscode.git"},"activationEvent":"*"}
+[2019-10-28 22:46:15.207] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/git/dist/main
+[2019-10-28 22:46:15.252] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2019-10-28 22:46:15.252] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/merge-conflict/dist/extension
+[2019-10-28 22:46:15.257] [exthost] [info] ExtensionService#_doActivateExtension icrawl.discord-vscode {"startup":true,"extensionId":{"value":"icrawl.discord-vscode","_lower":"icrawl.discord-vscode"},"activationEvent":"*"}
+[2019-10-28 22:46:15.258] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/star/.vscode-oss/extensions/icrawl.discord-vscode-3.8.3/dist/extension
+[2019-10-28 22:46:15.273] [exthost] [info] ExtensionService#_doActivateExtension KnisterPeter.vscode-github {"startup":true,"extensionId":{"value":"KnisterPeter.vscode-github","_lower":"knisterpeter.vscode-github"},"activationEvent":"*"}
+[2019-10-28 22:46:15.273] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/star/.vscode-oss/extensions/knisterpeter.vscode-github-0.30.2/out/src/main
+[2019-10-28 22:46:15.414] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.cpptools {"startup":true,"extensionId":{"value":"ms-vscode.cpptools","_lower":"ms-vscode.cpptools"},"activationEvent":"*"}
+[2019-10-28 22:46:15.414] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/star/.vscode-oss/extensions/ms-vscode.cpptools-0.26.0/dist/main
+[2019-10-28 22:46:15.498] [exthost] [info] eager extensions activated
+[2019-10-28 22:46:31.711] [exthost] [info] extension host started
+[2019-10-28 22:46:31.734] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2019-10-28 22:46:31.734] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/debug-auto-launch/dist/extension
+[2019-10-28 22:46:31.739] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2019-10-28 22:46:31.739] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/emmet/dist/extension
+[2019-10-28 22:46:31.766] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.git","_lower":"vscode.git"},"activationEvent":"*"}
+[2019-10-28 22:46:31.766] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/git/dist/main
+[2019-10-28 22:46:31.822] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2019-10-28 22:46:31.823] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/merge-conflict/dist/extension
+[2019-10-28 22:46:31.825] [exthost] [info] ExtensionService#_doActivateExtension icrawl.discord-vscode {"startup":true,"extensionId":{"value":"icrawl.discord-vscode","_lower":"icrawl.discord-vscode"},"activationEvent":"*"}
+[2019-10-28 22:46:31.825] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/star/.vscode-oss/extensions/icrawl.discord-vscode-3.8.3/dist/extension
+[2019-10-28 22:46:31.841] [exthost] [info] ExtensionService#_doActivateExtension KnisterPeter.vscode-github {"startup":true,"extensionId":{"value":"KnisterPeter.vscode-github","_lower":"knisterpeter.vscode-github"},"activationEvent":"*"}
+[2019-10-28 22:46:31.841] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/star/.vscode-oss/extensions/knisterpeter.vscode-github-0.30.3/out/src/main
+[2019-10-28 22:46:31.939] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.cpptools {"startup":true,"extensionId":{"value":"ms-vscode.cpptools","_lower":"ms-vscode.cpptools"},"activationEvent":"*"}
+[2019-10-28 22:46:31.939] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/star/.vscode-oss/extensions/ms-vscode.cpptools-0.26.1/dist/main
+[2019-10-28 22:46:32.033] [exthost] [info] eager extensions activated
+[2019-10-29 00:03:43.498] [exthost] [info] ExtensionService#_doActivateExtension vscode.python {"startup":false,"extensionId":{"value":"vscode.python","_lower":"vscode.python"},"activationEvent":"onLanguage:python"}
+[2019-10-29 00:03:43.498] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/python/dist/pythonMain
+[2019-10-29 00:03:43.501] [exthost] [info] ExtensionService#_doActivateExtension ms-python.python {"startup":false,"extensionId":{"value":"ms-python.python","_lower":"ms-python.python"},"activationEvent":"onLanguage:python"}
+[2019-10-29 00:03:43.501] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/star/.vscode-oss/extensions/ms-python.python-2019.10.44104/out/client/extension

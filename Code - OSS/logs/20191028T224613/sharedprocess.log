@@ -1,0 +1,27 @@
+[2019-10-28 22:46:16.949] [sharedprocess] [info] main {"machineId":"88a2c4e013f8b660742c97b0fb3f14fd9cc04e06f87e2bcf36a7f511c38d4d11","windowId":2}
+[2019-10-28 22:46:17.089] [sharedprocess] [info] Deleted from disk ms-vscode.cpptools /home/star/.vscode-oss/extensions/ms-vscode.cpptools-0.26.0-insiders3
+[2019-10-28 22:46:18.475] [sharedprocess] [info] Installing extension: knisterpeter.vscode-github
+[2019-10-28 22:46:18.476] [sharedprocess] [info] Installing extension: ms-python.python
+[2019-10-28 22:46:18.476] [sharedprocess] [info] Installing extension: ms-vscode.cpptools
+[2019-10-28 22:46:20.866] [sharedprocess] [info] Downloaded extension: ms-vscode.cpptools /tmp/4af56db7-7f37-4e19-9028-0669d4e963af
+[2019-10-28 22:46:21.486] [sharedprocess] [info] Extracted extension to /home/star/.vscode-oss/extensions/.ms-vscode.cpptools-0.26.1: ms-vscode.cpptools
+[2019-10-28 22:46:21.486] [sharedprocess] [info] Renamed to /home/star/.vscode-oss/extensions/ms-vscode.cpptools-0.26.1
+[2019-10-28 22:46:21.488] [sharedprocess] [info] Installation completed. ms-vscode.cpptools
+[2019-10-28 22:46:21.495] [sharedprocess] [info] Extensions installed successfully: ms-vscode.cpptools
+[2019-10-28 22:46:24.971] [sharedprocess] [info] Downloaded extension: knisterpeter.vscode-github /tmp/0f354039-e1e5-4ba1-9db7-d04032a7f1fa
+[2019-10-28 22:46:25.444] [sharedprocess] [info] Extracted extension to /home/star/.vscode-oss/extensions/.knisterpeter.vscode-github-0.30.3: knisterpeter.vscode-github
+[2019-10-28 22:46:25.444] [sharedprocess] [info] Renamed to /home/star/.vscode-oss/extensions/knisterpeter.vscode-github-0.30.3
+[2019-10-28 22:46:25.445] [sharedprocess] [info] Installation completed. knisterpeter.vscode-github
+[2019-10-28 22:46:25.449] [sharedprocess] [info] Extensions installed successfully: knisterpeter.vscode-github
+[2019-10-28 22:46:25.650] [sharedprocess] [info] Deleted from disk ms-vscode.cpptools /home/star/.vscode-oss/extensions/ms-vscode.cpptools-0.26.1
+[2019-10-28 22:46:25.650] [sharedprocess] [info] Installing the extension: ms-vscode.cpptools
+[2019-10-28 22:46:26.817] [sharedprocess] [info] Extracted extension to /home/star/.vscode-oss/extensions/.ms-vscode.cpptools-0.26.1: ms-vscode.cpptools
+[2019-10-28 22:46:26.817] [sharedprocess] [info] Renamed to /home/star/.vscode-oss/extensions/ms-vscode.cpptools-0.26.1
+[2019-10-28 22:46:26.819] [sharedprocess] [info] Installation completed. ms-vscode.cpptools
+[2019-10-28 22:46:26.823] [sharedprocess] [info] Successfully installed the extension: ms-vscode.cpptools
+[2019-10-28 22:46:28.583] [sharedprocess] [info] Downloaded extension: ms-python.python /tmp/14ea8bcf-df82-4dec-8cbe-05ae8bbc5e1e
+[2019-10-28 22:46:31.242] [sharedprocess] [info] Extracted extension to /home/star/.vscode-oss/extensions/.ms-python.python-2019.10.44104: ms-python.python
+[2019-10-28 22:46:31.242] [sharedprocess] [info] Renamed to /home/star/.vscode-oss/extensions/ms-python.python-2019.10.44104
+[2019-10-28 22:46:31.246] [sharedprocess] [info] Installation completed. ms-python.python
+[2019-10-28 22:46:31.253] [sharedprocess] [info] Extensions installed successfully: ms-python.python
+[2019-10-28 22:46:56.951] [sharedprocess] [info] Starting to clean up unused language packs.

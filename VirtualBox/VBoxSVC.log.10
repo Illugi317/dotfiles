@@ -1,0 +1,36 @@
+00:00:00.000763 main     VirtualBox XPCOM Server 6.0.14 r133895 linux.amd64 (Oct 10 2019 20:42:06) release log
+00:00:00.000766 main     Log opened 2019-12-09T07:22:03.079578000Z
+00:00:00.000766 main     Build Type: release
+00:00:00.000770 main     OS Product: Linux
+00:00:00.000771 main     OS Release: 5.3.13-zen1-1-zen
+00:00:00.000771 main     OS Version: #1 ZEN SMP PREEMPT Sun, 24 Nov 2019 10:15:53 +0000
+00:00:00.000788 main     DMI Product Name: System Product Name
+00:00:00.000794 main     DMI Product Version: System Version
+00:00:00.000818 main     Host RAM: 16001MB (15.6GB) total, 13905MB (13.5GB) available
+00:00:00.000821 main     Executable: /opt/VirtualBox/VBoxSVC
+00:00:00.000821 main     Process ID: 2293
+00:00:00.000821 main     Package type: LINUX_64BITS_GENERIC
+00:00:00.001669 main     IPC socket path: /tmp/.vbox-star-ipc/ipcd
+00:00:00.103966 nspr-2   VirtualBox: object creation starts
+00:00:00.104209 nspr-2   Home directory: '/home/star/.config/VirtualBox'
+00:00:00.104716 nspr-2   Loading settings file "/home/star/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:00.109964 nspr-2   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlp7s0: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:00:00.110969 nspr-2   NAT: resolv.conf: nameserver 192.168.1.254
+00:00:00.110993 nspr-2   HostDnsMonitor::updateInfo
+00:00:00.111005 nspr-2   HostDnsMonitor: old information
+00:00:00.111008 nspr-2     no server entries
+00:00:00.111013 nspr-2     no domain set
+00:00:00.111015 nspr-2     no search string entries
+00:00:00.111018 nspr-2   HostDnsMonitor: new information
+00:00:00.111021 nspr-2     server 1: 192.168.1.254
+00:00:00.111024 nspr-2     domain: lan
+00:00:00.111027 nspr-2     search string 1: lan
+00:00:00.111030 nspr-2     search string 2: home
+00:00:00.118988 nspr-2   VD: VDInit finished with VINF_SUCCESS
+00:00:00.120344 nspr-2   VirtualBox: object created
+00:00:00.171147 nspr-2   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={d0a0163f-e254-4e5b-a1f2-011cf991c38d} aComponent={VirtualBoxWrap} aText={Could not find a registered machine named 'minikube'}, preserve=false aResultDetail=0
+00:00:00.213059 nspr-2   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={d0a0163f-e254-4e5b-a1f2-011cf991c38d} aComponent={VirtualBoxWrap} aText={Could not find a registered machine named 'minikube'}, preserve=false aResultDetail=0
+00:00:05.214488 main     VirtualBox: object deletion starts
+00:00:05.621093 Watcher  ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={d0a0163f-e254-4e5b-a1f2-011cf991c38d} aComponent={VirtualBoxWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+00:00:10.218831 main     {00007f364801f5b0} HostPowerServiceLinux::~HostPowerServiceLinux: RTThreadWait() for 5000 ms failed with VERR_TIMEOUT
+00:00:10.219266 main     VirtualBox: object deleted

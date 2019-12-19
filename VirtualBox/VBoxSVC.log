@@ -1,0 +1,18 @@
+40:47:49.054528 dns-monitor Log continuation - Log started 2019-12-16T06:11:48.933094000Z
+40:47:49.054544 dns-monitor NAT: resolv.conf: nameserver 8.8.8.8
+40:47:49.055576 dns-monitor HostDnsMonitor::updateInfo
+40:47:49.056494 dns-monitor HostDnsMonitor: old information
+40:47:49.056500 dns-monitor   server 1: 192.168.1.254
+40:47:49.056502 dns-monitor   domain: lan
+40:47:49.056504 dns-monitor   search string 1: lan
+40:47:49.056506 dns-monitor   search string 2: home
+40:47:49.056508 dns-monitor HostDnsMonitor: new information
+40:47:49.056509 dns-monitor   server 1: 1.1.1.1
+40:47:49.056511 dns-monitor   server 2: 8.8.8.8
+40:47:49.056512 dns-monitor   domain: lan
+40:47:49.056514 dns-monitor   search string 1: lan
+40:47:49.056516 dns-monitor   search string 2: home
+40:47:49.061669 dns-monitor NAT: resolv.conf: nameserver 1.1.1.1
+40:47:49.061694 dns-monitor NAT: resolv.conf: nameserver 8.8.8.8
+40:47:49.061708 dns-monitor HostDnsMonitor::updateInfo
+40:47:49.061712 dns-monitor HostDnsMonitor: unchanged

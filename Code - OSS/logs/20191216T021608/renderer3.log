@@ -1,0 +1,5 @@
+[2019-12-16 02:51:34.940] [renderer3] [error] timeout after 500 ms: Error: timeout after 500 ms
+    at t.RawDebugSession.handleErrorResponse (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2797:1003)
+    at file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2797:434
+    at async t.RawDebugSession.shutdown (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2795:536)
+    at async R.terminate (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:5172:637)
