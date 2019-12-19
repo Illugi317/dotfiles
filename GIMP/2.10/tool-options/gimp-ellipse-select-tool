@@ -1,7 +1,0 @@
-# GIMP gimp-ellipse-select-tool options
-
-(fixed-rule-active yes)
-(feather yes)
-(feather-radius 5)
-
-# end of gimp-ellipse-select-tool options
